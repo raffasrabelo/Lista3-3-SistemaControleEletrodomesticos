@@ -1,0 +1,6 @@
+Geladeira;1;24
+Air Fryer;1,2;0,5
+Microondas;0,5;1,5
+Ventilador;0,1;6
+Liquidificador;0,2;0,5
+Televisão;0,4;0,5

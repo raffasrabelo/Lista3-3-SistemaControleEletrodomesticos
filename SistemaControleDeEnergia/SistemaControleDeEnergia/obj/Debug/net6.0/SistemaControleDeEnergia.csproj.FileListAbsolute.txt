@@ -1,0 +1,14 @@
+C:\Users\raffa\source\repos\SistemaControleDeEnergia\SistemaControleDeEnergia\bin\Debug\net6.0\SistemaControleDeEnergia.exe
+C:\Users\raffa\source\repos\SistemaControleDeEnergia\SistemaControleDeEnergia\bin\Debug\net6.0\SistemaControleDeEnergia.deps.json
+C:\Users\raffa\source\repos\SistemaControleDeEnergia\SistemaControleDeEnergia\bin\Debug\net6.0\SistemaControleDeEnergia.runtimeconfig.json
+C:\Users\raffa\source\repos\SistemaControleDeEnergia\SistemaControleDeEnergia\bin\Debug\net6.0\SistemaControleDeEnergia.dll
+C:\Users\raffa\source\repos\SistemaControleDeEnergia\SistemaControleDeEnergia\bin\Debug\net6.0\SistemaControleDeEnergia.pdb
+C:\Users\raffa\source\repos\SistemaControleDeEnergia\SistemaControleDeEnergia\obj\Debug\net6.0\SistemaControleDeEnergia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raffa\source\repos\SistemaControleDeEnergia\SistemaControleDeEnergia\obj\Debug\net6.0\SistemaControleDeEnergia.AssemblyInfoInputs.cache
+C:\Users\raffa\source\repos\SistemaControleDeEnergia\SistemaControleDeEnergia\obj\Debug\net6.0\SistemaControleDeEnergia.AssemblyInfo.cs
+C:\Users\raffa\source\repos\SistemaControleDeEnergia\SistemaControleDeEnergia\obj\Debug\net6.0\SistemaControleDeEnergia.csproj.CoreCompileInputs.cache
+C:\Users\raffa\source\repos\SistemaControleDeEnergia\SistemaControleDeEnergia\obj\Debug\net6.0\SistemaControleDeEnergia.dll
+C:\Users\raffa\source\repos\SistemaControleDeEnergia\SistemaControleDeEnergia\obj\Debug\net6.0\refint\SistemaControleDeEnergia.dll
+C:\Users\raffa\source\repos\SistemaControleDeEnergia\SistemaControleDeEnergia\obj\Debug\net6.0\SistemaControleDeEnergia.pdb
+C:\Users\raffa\source\repos\SistemaControleDeEnergia\SistemaControleDeEnergia\obj\Debug\net6.0\SistemaControleDeEnergia.genruntimeconfig.cache
+C:\Users\raffa\source\repos\SistemaControleDeEnergia\SistemaControleDeEnergia\obj\Debug\net6.0\ref\SistemaControleDeEnergia.dll
